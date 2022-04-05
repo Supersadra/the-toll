@@ -19,8 +19,16 @@
 
 body{
  background-color:
- #f0e9b9;
- border:10px double;
- border-radius: 4px;
- border-color: #6e6635 
+  #f0e9b9;
+  border:10px double;
+  border-radius: 4px;
+  border-color: #6e6635 
+}
+
+
+.names{
+ font-size: 165%;
+  color:#696006;
+  margin-left:10px;
+  font-family: Patua One 
 }
