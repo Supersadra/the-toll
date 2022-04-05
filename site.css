@@ -46,3 +46,13 @@ body{
   font-family:Patua One;
   font-size:190% 
 }
+
+
+.table{
+ text-align:center;
+  margin-left: 360px;
+  border: 10px ridge;
+  border-color:#3c4221;
+  font-family:inter;
+  font-size: 130% 
+}
