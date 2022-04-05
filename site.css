@@ -56,3 +56,22 @@ body{
   font-family:inter;
   font-size: 130% 
 }
+
+.col_1{
+ border: 2px solid;
+  border-color:#a88f3d;
+  border-radius: 7px 
+}
+
+.col_2{
+ border: 2px solid;
+  border-color:#c7b16d;
+  border-radius: 7px 
+}
+
+.col_3[
+ font-family: Noto Sans Arabic;
+  border: 2px solid;
+  border-color:#cfbf8f
+  ;border-radius: 7px
+}
