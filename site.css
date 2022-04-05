@@ -7,3 +7,12 @@
   font-family: Fredoka One
   
 }
+
+
+.Stories{
+  text-align:left;
+  color: #030059;
+  border-left:5px solid blue ;
+  magrin-left:15px;
+  font-family:League Spartan 
+}
